@@ -52,4 +52,4 @@ Currently working as a React/Next Developer at PK Teams / AKITS, where I build h
 ---
 
 ## ⚡ Fun Fact
-I enjoy building full stack web applications with clean UI designs and optimizing React applications for better performance 🚀
+I enjoy building full-stack web applications with clean UI designs and optimizing React applications for better performance 🚀
