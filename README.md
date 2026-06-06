@@ -3,7 +3,7 @@
   <br /> 
   <strong>Faizullah</strong> 
   <br /> 
-  <b>MERN Stack Developer (Frontend Focused)</b> 
+  <b>Full Stack Developer (Frontend Focused)</b> 
   <br />
   <br />
 <table align="center">
@@ -26,7 +26,7 @@
 <hr />
 <div>
   <h2>About Me</h2>
-  <p>I'm a passionate MERN Stack Developer focused on building fully optimized, responsive, scalable, and user-friendly web applications. I enjoy turning ideas into real-world projects using modern frontend technologies like React.js and Next.js. Currently working as a React/Next Developer at PK Teams / AKITS, where I build high-performance web applications and reusable UI components.</p>
+  <p>I'm a passionate Full Stack Developer focused on building fully optimized, responsive, scalable, and user-friendly web applications. I enjoy turning ideas into real-world projects using modern frontend technologies like React.js and Next.js. Currently working as a React/Next Developer at PK Teams / AKITS, where I build high-performance web applications and reusable UI components.</p>
 </div>
 <hr />
 <div>
